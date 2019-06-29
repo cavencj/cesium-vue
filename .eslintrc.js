@@ -14,11 +14,11 @@ module.exports = {
     'no-new': 0,
     camelcase: 0,
     'padded-blocks': 0,
-    'no-unused-vars': 0,
+    'no-unused-vars': 2,
     'no-trailing-spaces': 0,
     'no-mixed-spaces-and-tabs': 0,
     'space-before-function-paren': [0, 'always'],
-    'no-multiple-empty-lines': 0
+    'no-multiple-empty-lines': 2
   },
   globals: {
     __SERVICE_URL__: false,

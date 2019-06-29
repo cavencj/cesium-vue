@@ -27,7 +27,6 @@ module.exports = {
     VueRouter: false,
     Fetch: false,
     Hub: false,
-    echarts: false,
     Cesium: false,
     '%=': false
   },

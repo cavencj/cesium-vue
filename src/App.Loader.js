@@ -2,11 +2,12 @@
  * @Author: Caven
  * @Date: 2019-06-14 13:20:27
  * @Last Modified by: Caven
- * @Last Modified time: 2019-06-14 13:28:16
+ * @Last Modified time: 2019-08-25 21:33:39
  */
 import Vue from 'vue'
 import Cesium from 'cesium/Cesium'
 import 'cesium/Widgets/widgets.css'
+
 const hub = new Vue()
 class AppLoader {
   constructor() {

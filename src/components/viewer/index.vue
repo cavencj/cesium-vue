@@ -12,7 +12,6 @@ export default {
         animation: false,
         homeButton: false,
         selectionIndicator: false,
-        navigationHelpButton: false,
         fullscreenButton: false,
         timeline: false,
         geocoder: false
